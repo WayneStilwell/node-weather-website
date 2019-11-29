@@ -25,6 +25,10 @@ header a {
     text-decoration: none;
 }
 
+header p {
+    color: #888;
+}
+
 .main-content {
     flex-grow: 1;
 }
